@@ -1,0 +1,41 @@
+What fields is it used it?
+-> Data Analysis
+-> Data Science
+-> Machine Learning
+
+
+Pandas come from the german *panel Data*. It has nothing to do with panda
+
+using this library we typically work with objects known as series and dataframes.
+
+You can think of Pandas as python version of microsoft excell.
+
+Before Learning you'll need to know everything of python list like:
+1. Variables
+2. User Input
+3. Math
+4. Loical Operators
+5. Comparison Operators
+6. Lists, Tuples, Sets
+
+-m means "Run a module as a script"
+
+Series = A pandas 1-dimensional labeled array that can hold any data type
+         Think of it like a single column in a spreadhseet(1-dimensional)
+
+strings are named object in python
+
+python dictionary is made of key, value pairs
+
+dataframes = A tabular structure with rows and columns.(2-dimensional)
+            Similar to an Excel spreadhseet
+
+CSV = Comma-separated values
+JSON = JavaScript Object Notation
+
+
+
+
+
+
+
