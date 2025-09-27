@@ -3,7 +3,7 @@
 import pandas as pd
 import numpy as np
 
-df = pd.read_csv("data.csv")
+df = pd.read_csv("student_info.csv")
 
 # to print csv file
 # print(df)
